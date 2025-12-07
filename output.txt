@@ -1,0 +1,7 @@
+Bonjour le monde
+Ceci est une ligne de test
+Apprendre Java est utile
+Les fichiers sont importants
+Fin du fichier
+--------------------------------
+Nombre total de lignes copiées : 5
